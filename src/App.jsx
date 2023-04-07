@@ -10,7 +10,7 @@ function App() {
   return (
     <div className='App'>
       <img src="/sticker.png" alt="I HATE CICS >:(" className="image" onClick={() => {
-        console.log("I HATE CICS >:(( \n")
+        console.log("I HATE CICS >:((")
         console.log("\n")
       }}/>
       <div className='marquee'>
